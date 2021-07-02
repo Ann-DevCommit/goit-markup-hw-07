@@ -1,0 +1,3 @@
+<svg class="footer-soc__icon"
+<svg class="subscribe__button-icon"
+feature__item-icon
